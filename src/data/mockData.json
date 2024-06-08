@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2024-06-01",
+        "commits": 5,
+        "pullRequestsOpened": 2,
+        "pullRequestsMerged": 1,
+        "meetings": 2,
+        "documentation": 3
+    },
+    {
+        "date": "2024-06-02",
+        "commits": 4,
+        "pullRequestsOpened": 1,
+        "pullRequestsMerged": 1,
+        "meetings": 1,
+        "documentation": 2
+    },
+    {
+        "date": "2024-06-03",
+        "commits": 4,
+        "pullRequestsOpened": 1,
+        "pullRequestsMerged": 1,
+        "meetings": 1,
+        "documentation": 2
+    }
+    
+]
